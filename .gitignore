@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# LaTeX (Arquivos temporários de compilação)
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+
+# Dados pesados (opcional: se as 135 instâncias forem muito pesadas, 
+# é melhor deixar o gerador no GitHub do que as pastas de txt)
+instancias/
